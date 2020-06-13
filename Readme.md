@@ -45,5 +45,5 @@ $ python3 manage.py runserver
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 <p align="center">
-	With :heart: by <a href="www.linkedin.com/in/aditya-beri-a04386191" target="_blank">Aditya Beri</a>
+	With :heart: by <a href="www.linkedin.com/in/aditya-beri-a04386191">Aditya Beri</a>
 </p>
