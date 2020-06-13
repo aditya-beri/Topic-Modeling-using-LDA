@@ -10,20 +10,26 @@
 
 
 ## Features
-Data
-Preprocessing
-LDA
-Showing Stored Words
-Showing Top Words Per Topic
-Attaching Discovered Topic Labels to Original Articles
-Combining with Original Data
+-Data
+
+-Preprocessing
+
+-LDA
+
+-Showing Stored Words
+
+-Showing Top Words Per Topic
+
+-Attaching Discovered Topic Labels to Original Articles
+
+-Combining with Original Data
 
 
 
 ## Screenshots
-<img src="C:\Users\ADITYA\Desktop\2020-06-13 (22).png" alt="Project Screenshots">
+<img src="C:\Users\ADITYA\Desktop\2020-06-13 (22).png" >
 
-<img src="C:\Users\ADITYA\Desktop\2020-06-13 (23).png" alt="Project Screenshots">
+<img src="C:\Users\ADITYA\Desktop\2020-06-13 (23).png" >
 
 
 
